@@ -1,0 +1,6 @@
+{
+  "name": "ذكرى اليوم - Memory Day",
+  "description": "تطبيق ذكريات دافئ ومباشر يخلّد اللحظات الجميلة مع تاريخ اليوم ولمسات حنين تفاعلية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
